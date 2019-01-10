@@ -8,6 +8,9 @@ C++ is a great programming language, and in the past few years went through a lo
 The goal of this project is to go and take my time trying to finish the _Advent of Code 2018_ using only **C++**, and widen my knowledge of the language and improve my algorythm design.
 All being said, another goal of this project is to try and think about solutions, in the most general way possible. This means, mostly, trying to avoid any super optimized code, any parallel code and all other possible way to "waste time" in the development that are not focused on the simplest solution to each given problem.
 
+### C++ Core Guidelines
+[C++ Core Guidelines Reference Document](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md)
+
 ## Why non-optimized code?
 Basically, in order to design a well optimized algorythm, you need to spend time and mental resources, trying to find the best solution possible that can be processed in the least amount of computing time possible.
 This requires a very good knowledge of the problem, and a reasonable amount of time.
